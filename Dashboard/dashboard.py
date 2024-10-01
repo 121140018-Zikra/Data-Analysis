@@ -61,6 +61,6 @@ st.pyplot(fig)
 
 st.markdown(""" 
 ## Conclusion:
-1. Musim, cuaca, dan temperatur memiliki pengaruh kuat terhadap jumlah pengguna rental sepeda. Pada musim gugur dan cuaca cerah memiliki jumlah pengguna yang lebih banyak. Sebaliknya pada musim dingin dan cuaca ekstrim jumlah pengguna turun drastis.
+1. Musim, cuaca, dan temperatur memiliki pengaruh kuat terhadap jumlah pengguna rental sepeda. Pada musim gugur dan cuaca cerah memiliki jumlah pengguna yang lebih banyak. Sebaliknya pada musim semi dan cuaca ekstrim jumlah pengguna turun drastis. Walaupun tidak terlalu signifdfikan, kondisi kelembapan dan kecepatan angin juga memiliki pengaruh terhadap jumlah perental. Semakin tinggi nilai keduanya membuat orang memilih untuk tidak menggunakan sepeda karena kondisi yang tidak nyaman.
 2. Berdasarkan waktu penggunaan, terdapat lonjakan signifikan pada jam-jam sibuk, yakni pagi hari sekitar pukul 08:00 dan sore hari antara pukul 17:00 hingga 18:00. Hal ini mengindikasikan bahwa bike-sharing banyak digunakan sebagai sarana transportasi saat berangkat dan pulang kerja.
 """)
